@@ -5,8 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wcontreras&row=1&margin-w=15)" alt="wcontreras" /></a> </p>
 
+
+<table style="border: none">
+  <tr>
+    <td style="vertical-align: middle;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wcontreras&show_icons=true&locale=en" alt="wcontreras" /></td>
+    <td style="vertical-align: middle;"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=wcontreras" alt="GitHub Streak" /></a></td>
+  </tr>
+</table>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wcontreras&show_icons=true&locale=en&layout=compact" alt="wcontreras" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wcontreras&show_icons=true&locale=en&theme=transparent" alt="wcontreras" /></p>
-
-<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=wcontreras&theme=dark" alt="GitHub Streak" /></a></p>
